@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>TheClubo LLC || Support</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="icon" href="images/Wolf.png">
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</head>
+<body style = "background-color: #F6F6F6">
+	<div id="Top" class="conteiner">Top</div>
+	<h1 class="text-center" id="Clubo">TheClubo LLC</h1>
+	<div id="Tools" class="text-center"><a id="main" href="index.php">Main</a><a id="support" href="#">Support</a></div>
+	<div>
+	<img id="Gmail" src="images/gmail.png"><a id="mail" href="https://mail.google.com">Support</a>
+	</div>
+</body>
+</html>
